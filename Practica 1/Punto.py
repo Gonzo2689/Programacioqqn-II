@@ -1,6 +1,6 @@
 import math
 class Punto:
-    def __init__(self, x, y):
+    def __init__(self, x, y):ffdf
         self.x=x
         self.y=y
     def coord_cartesianas(self):
